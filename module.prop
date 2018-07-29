@@ -1,0 +1,7 @@
+id=crystalhosts
+name=CrystalACG-hosts
+version=v1
+versionCode=1
+author=CrystalACG & cjybyjk
+description=A magisk module to append hosts for visiting some area limited website
+minMagisk=1400
